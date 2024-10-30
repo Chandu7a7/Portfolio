@@ -2,12 +2,12 @@ import React from "react";
 import { Container, Row, Col } from "react-bootstrap";
 import ProjectCard from "./ProjectCards";
 import Particle from "../Particle";
-import parultravels from "../../Assets/Projects/Parul-travel.png";
-import Renewo from "../../Assets/Projects/Renewo.png";
-import shiksha from "../../Assets/Projects/connect-shiksha.png";
-import githubuser from "../../Assets/Projects/Githubuser.png";
-import dribble from "../../Assets/Projects/Dribble-clone.png";
-import vibezdance from "../../Assets/Projects/Vibezdance.png";
+import parultravels from "../../Assets/Projects/Parul-travel.jpg";
+import Renewo from "../../Assets/Projects/Renewo.jpg";
+import shiksha from "../../Assets/Projects/connect-shiksha.jpg";
+import githubuser from "../../Assets/Projects/Githubuser.jpg";
+import dribble from "../../Assets/Projects/Dribble-clone.jpg";
+import vibezdance from "../../Assets/Projects/Vibezdance.jpg";
 
 function Projects() {
   return (

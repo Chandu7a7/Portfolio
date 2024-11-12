@@ -3,7 +3,7 @@
   <a href="" target="_blank">Chandu7a7</a>
 </h2>
 <div align="center">
-  <img alt="Demo" src="./Images/readme-.png" />
+
 </div>
 
 <br/>
@@ -16,7 +16,6 @@
 
 
 
-You can fork this repo to modify and make changes of your own. Please give me proper credit by linking back to . Thanks!
 
 
 ## Built With

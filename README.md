@@ -14,16 +14,10 @@
 
 </center>
 
-<<<<<<< HEAD
-=======
-
->>>>>>> c29cdcc (update)
 
 
-<<<<<<< HEAD
-=======
 You can fork this repo to modify and make changes of your own. Please give me proper credit by linking back to . Thanks!
->>>>>>> c29cdcc (update)
+
 
 ## Built With
 
@@ -66,9 +60,7 @@ Open the project folder and Navigate to `/src/components/`. <br/>
 You will find all the components used and you can edit your information accordingly.
 
 
-<<<<<<< HEAD
-=======
 Give a ⭐ if you like this website!
 
 
->>>>>>> c29cdcc (update)
+
